@@ -11,7 +11,7 @@ I think I ought to change it to somthing reflecting an equivilent of a catch all
 ### Theses Scripts are wrote for debian based linux distros but there are also some powershell and some python in here to
 
 ### !!*Use these at your own risk*!!
-
+### ( alot of these scripts have failed or didn't work, so be careful, but I keep em here just in case I may need to look at them again.. but irrigardless I'm not at fault for any !@#$ ups that may have happened to your systems if you run them, after all... I did warn you)
 ## 1)Whats inside??
 these scripts got wrote,out of who knows why.. but they did...
 theres kinda no order here, but thats ok , somtimes it in the chaos we find order...
