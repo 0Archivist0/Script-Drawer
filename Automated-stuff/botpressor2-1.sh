@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # --------------------------------------------------------------------------
 # Author: Kris Tomplait
 # this was wrote to automate the install of botpress, so use at your own risk
@@ -30,4 +31,8 @@ fi
 # Specify Botpress dependencies
 botpress_dependencies=("sqlite3" "serialport" "nan" "sharp")
 
-# ... (continue with the rest of your script)
+
+# -------------------------------------------
+# this script was apart of a few scripts, 
+# which I lost, because I didn't follow a golden rule: SAVE OFTEN!!!!
+#
