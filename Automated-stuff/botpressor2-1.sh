@@ -1,6 +1,9 @@
 #!/bin/bash
-
+# --------------------------------------------------------------------------
+# Author: Kris Tomplait
+# this was wrote to automate the install of botpress, so use at your own risk
 # Check if the script is being run with root privileges
+# --------------------------------------------------------------------------
 if [ "$EUID" -ne 0 ]; then
   echo "Please run this script with root privileges (sudo)."
   exit 1
