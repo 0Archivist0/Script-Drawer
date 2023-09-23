@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# Author: Kris Tomplait
+
+# This is a second "seprate" Scipt for the automated installation of bot-press
+# This is an experimental script, so use it at your own risk
+# ---------------------------------------------------------------------------
+
+
 # Function to display an error message and exit
 exit_with_error() {
     echo "Error: $1"
